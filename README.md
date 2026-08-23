@@ -5,19 +5,10 @@
 This repository contains notebooks, code, data resources, and project templates
 for [DSA 495: Text Analysis for Data Science](https://courseweb.site/dsa495-2026/).
 
-Although the course is titled *Text Analysis for Data Science*, its main focus is
-hands-on work with modern large language models (LLMs). Text analysis provides the
-setting for learning how to build, evaluate, and improve practical LLM-based
-systems in Python.
-
-The course begins with tokens, embeddings, and foundational text-analysis tasks
-such as classification, clustering, and topic modeling. It then moves into
-context design, model and system evaluation, dense and hybrid retrieval,
-reranking, retrieval-augmented generation (RAG), tool use, and agentic workflows.
-Later modules introduce model adaptation through embedding-model training and
-parameter-efficient fine-tuning. Throughout the semester, the emphasis is on
-reproducible implementation, careful evaluation, and understanding where an LLM
-pipeline succeeds or fails on a defined task.
+This is a hands-on course on building and evaluating LLM-based systems for text
+data in Python. Topics include embeddings, classification, clustering, context
+design, evaluation, retrieval-augmented generation (RAG), tool use, agentic
+workflows, and model adaptation.
 
 ## Repository Contents
 

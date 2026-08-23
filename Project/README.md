@@ -1,4 +1,4 @@
-# [Project Title]
+# [Specific Working Project Title]
 
 > **DSA 495 Topic Brief**
 >
@@ -8,7 +8,7 @@
 
 - Create **one shared project repository per team** and continue using it through the end of the semester. Do not create separate repositories for the Topic Brief and later stages of the project.
 - The repository name must begin with the case-sensitive prefix **`DSA495`**, such as `DSA495-news-classification`. After the prefix, feel free to choose a creative and distinctive team name; it does not have to describe your task or topic. A repository whose name does not begin with `DSA495` will receive zero credit for the Topic Brief.
-- Complete every required section below. Feel free to add more sections as necessary. The methods and evaluation section is optional.
+- Complete every required section and item below. Anything labeled optional may be left undecided! If another required item does not apply, write “Not applicable” and briefly explain why. Feel free to add sections as needed, but keep the brief concise.
 - Make sure the repository is accessible to the instructor by choosing one of the following options:
   1. **Public repository:** No collaborator invitation is required.
   2. **Private repository:** Add the instructor as a collaborator using the GitHub username `SerenaYKim`.
@@ -17,7 +17,7 @@
 ## Team Members
 
 - [Full name]
-- [Full name]
+- [Full name, if applicable]
 - [Full name, if applicable]
 - [Full name, if applicable]
 
@@ -27,13 +27,20 @@
 
 [Replace the sentence above with one specific task. Describe what the project will do, not only the general topic that interests you.]
 
+## Illustrative Input and Desired Output
+
+- **Example input:** [Provide one representative, non-sensitive input to the proposed system. A short, hypothetical, or sanitized example is acceptable.]
+- **Desired output:** [Show or describe what the system should return, predict, rank, extract, compare, or generate for that input.]
+
 ## Background and Starting Point
 
 [Briefly explain why your team is interested in this topic and how the idea began. What examples, experiences, questions, applications, or existing resources gave you the starting point? Provide enough context for the instructor to understand the idea, but do not write a literature review or extended theoretical justification.]
 
-## Intended Output
+## Intended Output and Success
 
 [Describe what you want the project to produce or accomplish. For example, the output might be predicted labels, groups of related documents, discovered topics, extracted information, ranked search results, generated answers, a comparison of texts, or another useful result. If someone would use the output, identify that user and what the output would help them do.]
+
+**Success statement:** [In one sentence, describe what would make the output useful or successful. A formal evaluation metric is not required at this stage.]
 
 ## Preferred Data
 
@@ -44,10 +51,12 @@
 ### Source and Access
 
 - **Dataset or corpus name:** [Name]
-- **Source organization or creator:** [Source]
+- **Original source organization or creator:** [Source]
+- **Original collection process:** [Who originally collected the data, when, and how, if known? Distinguish the original source from a site that only redistributes the data.]
 - **Direct link:** [URL]
 - **Access method:** [Download, API, web collection, request, or another method]
 - **Access, licensing, privacy, or redistribution considerations:** [Explain any restrictions or write “None identified.”]
+- **Backup corpus (optional):** [Identify an alternative source if losing access to the preferred corpus is a meaningful risk, or write “Not needed at this stage.”]
 
 ### Examples
 
@@ -56,6 +65,16 @@
 ### Fit with the Task
 
 [Explain briefly why this corpus contains the text, labels, metadata, or other information needed for the one-sentence task. Note any important information that may be missing or difficult to obtain.]
+
+## Feasibility and Immediate Next Steps
+
+- **Minimum viable project:** [Describe the smallest complete version of the project your team could deliver successfully.]
+- **Data-access check:** [State whether a team member has successfully opened, downloaded, or queried the proposed data. If not, identify the next access step.]
+- **Largest current risk:** [Identify the most important uncertainty involving data, labels, computing, scope, evaluation, or another dependency.]
+- **Backup plan:** [Explain how the team could narrow or adjust the project if that risk occurs.]
+- **Next two actions:**
+  1. [Action — responsible team member(s) — approximate target date]
+  2. [Action — responsible team member(s) — approximate target date]
 
 ## Possible Text-Analysis Method and Evaluation (Optional)
 
